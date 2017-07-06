@@ -1,0 +1,2 @@
+# miner
+cinderella miner gateway
